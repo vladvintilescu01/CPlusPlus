@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002Boop\\HackerRank_ExceptionalServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15E687B9-1C27-4622-9243-8BE217F1695E}|HackerRank_ExceptionalServer.vcxproj|D:\\C\u002B\u002Boop\\HackerRank_ExceptionalServer\\HackerRank_ExceptionalServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15E687B9-1C27-4622-9243-8BE217F1695E}|HackerRank_ExceptionalServer.vcxproj|solutionrelative:HackerRank_ExceptionalServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HackerRank_ExceptionalServer.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002Boop\\HackerRank_ExceptionalServer\\HackerRank_ExceptionalServer.cpp",
+              "RelativeDocumentMoniker": "HackerRank_ExceptionalServer.cpp",
+              "ToolTip": "D:\\C\u002B\u002Boop\\HackerRank_ExceptionalServer\\HackerRank_ExceptionalServer.cpp",
+              "RelativeToolTip": "HackerRank_ExceptionalServer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-18T12:41:24.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

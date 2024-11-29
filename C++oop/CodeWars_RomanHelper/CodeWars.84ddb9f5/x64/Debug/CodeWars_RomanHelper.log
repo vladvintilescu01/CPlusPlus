@@ -1,0 +1,4 @@
+﻿  CodeWars_RomanHelper.cpp
+D:\C++oop\CodeWars_RomanHelper\CodeWars_RomanHelper.cpp(13,19): warning C4018: '>=': signed/unsigned mismatch
+D:\C++oop\CodeWars_RomanHelper\CodeWars_RomanHelper.cpp(22,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CodeWars_RomanHelper.vcxproj -> D:\C++oop\CodeWars_RomanHelper\x64\Debug\CodeWars_RomanHelper.exe

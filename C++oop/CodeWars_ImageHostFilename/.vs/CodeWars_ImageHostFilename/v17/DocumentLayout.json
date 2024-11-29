@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002Boop\\CodeWars_ImageHostFilename\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83EB269F-6347-49A8-9277-9166A7F375C9}|CodeWars_ImageHostFilename.vcxproj|D:\\C\u002B\u002Boop\\CodeWars_ImageHostFilename\\CodeWars_ImageHostFilename.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83EB269F-6347-49A8-9277-9166A7F375C9}|CodeWars_ImageHostFilename.vcxproj|solutionrelative:CodeWars_ImageHostFilename.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CodeWars_ImageHostFilename.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002Boop\\CodeWars_ImageHostFilename\\CodeWars_ImageHostFilename.cpp",
+              "RelativeDocumentMoniker": "CodeWars_ImageHostFilename.cpp",
+              "ToolTip": "D:\\C\u002B\u002Boop\\CodeWars_ImageHostFilename\\CodeWars_ImageHostFilename.cpp",
+              "RelativeToolTip": "CodeWars_ImageHostFilename.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T07:50:43.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

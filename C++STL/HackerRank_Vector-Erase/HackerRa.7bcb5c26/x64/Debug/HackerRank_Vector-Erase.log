@@ -1,0 +1,4 @@
+﻿  HackerRank_Vector-Erase.cpp
+D:\C++STL\HackerRank_Vector-Erase\HackerRank_Vector-Erase.cpp(25,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\C++STL\HackerRank_Vector-Erase\HackerRank_Vector-Erase.cpp(29,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  HackerRank_Vector-Erase.vcxproj -> D:\C++STL\HackerRank_Vector-Erase\x64\Debug\HackerRank_Vector-Erase.exe

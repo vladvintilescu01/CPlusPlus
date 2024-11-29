@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002Boop\\HackerRank_MessagesOrder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBAE6DB-479D-4D54-B976-0044555CBF9E}|HackerRank_MessagesOrder.vcxproj|D:\\C\u002B\u002Boop\\HackerRank_MessagesOrder\\HackerRank_MessagesOrder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BCBAE6DB-479D-4D54-B976-0044555CBF9E}|HackerRank_MessagesOrder.vcxproj|solutionrelative:HackerRank_MessagesOrder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HackerRank_MessagesOrder.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002Boop\\HackerRank_MessagesOrder\\HackerRank_MessagesOrder.cpp",
+              "RelativeDocumentMoniker": "HackerRank_MessagesOrder.cpp",
+              "ToolTip": "D:\\C\u002B\u002Boop\\HackerRank_MessagesOrder\\HackerRank_MessagesOrder.cpp",
+              "RelativeToolTip": "HackerRank_MessagesOrder.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T07:54:30.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

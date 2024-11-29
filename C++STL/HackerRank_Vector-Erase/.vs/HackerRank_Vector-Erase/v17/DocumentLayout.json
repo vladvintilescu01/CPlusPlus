@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002BSTL\\HackerRank_Vector-Erase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCB5C26-129C-4698-86CA-E18E4182694D}|HackerRank_Vector-Erase.vcxproj|D:\\C\u002B\u002BSTL\\HackerRank_Vector-Erase\\HackerRank_Vector-Erase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BCB5C26-129C-4698-86CA-E18E4182694D}|HackerRank_Vector-Erase.vcxproj|solutionrelative:HackerRank_Vector-Erase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 187,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HackerRank_Vector-Erase.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002BSTL\\HackerRank_Vector-Erase\\HackerRank_Vector-Erase.cpp",
+              "RelativeDocumentMoniker": "HackerRank_Vector-Erase.cpp",
+              "ToolTip": "D:\\C\u002B\u002BSTL\\HackerRank_Vector-Erase\\HackerRank_Vector-Erase.cpp",
+              "RelativeToolTip": "HackerRank_Vector-Erase.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T15:44:55.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

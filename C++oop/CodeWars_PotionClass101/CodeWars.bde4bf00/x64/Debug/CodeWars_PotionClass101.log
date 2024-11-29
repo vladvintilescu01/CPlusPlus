@@ -1,0 +1,13 @@
+﻿  CodeWars_PotionClass101.cpp
+D:\C++oop\CodeWars_PotionClass101\CodeWars_PotionClass101.cpp(18,34): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+D:\C++oop\CodeWars_PotionClass101\CodeWars_PotionClass101.cpp(18,34): warning C4244:         with
+D:\C++oop\CodeWars_PotionClass101\CodeWars_PotionClass101.cpp(18,34): warning C4244:         [
+D:\C++oop\CodeWars_PotionClass101\CodeWars_PotionClass101.cpp(18,34): warning C4244:             _Ty=unsigned char
+D:\C++oop\CodeWars_PotionClass101\CodeWars_PotionClass101.cpp(18,34): warning C4244:         ]
+D:\C++oop\CodeWars_PotionClass101\CodeWars_PotionClass101.cpp(19,34): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+D:\C++oop\CodeWars_PotionClass101\CodeWars_PotionClass101.cpp(19,34): warning C4244:         with
+D:\C++oop\CodeWars_PotionClass101\CodeWars_PotionClass101.cpp(19,34): warning C4244:         [
+D:\C++oop\CodeWars_PotionClass101\CodeWars_PotionClass101.cpp(19,34): warning C4244:             _Ty=unsigned char
+D:\C++oop\CodeWars_PotionClass101\CodeWars_PotionClass101.cpp(19,34): warning C4244:         ]
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\C++oop\CodeWars_PotionClass101\x64\Debug\CodeWars_PotionClass101.exe : fatal error LNK1120: 1 unresolved externals

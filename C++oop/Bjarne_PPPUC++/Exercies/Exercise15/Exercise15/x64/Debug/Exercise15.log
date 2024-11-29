@@ -1,0 +1,3 @@
+﻿  Exercise15.cpp
+D:\C++oop\Bjarne_PPPUC++\Exercies\Exercise15\Exercise15.cpp(36,1): warning C4715: 'Money::get_conversion_table': not all control paths return a value
+  Exercise15.vcxproj -> D:\C++oop\Bjarne_PPPUC++\Exercies\Exercise15\x64\Debug\Exercise15.exe

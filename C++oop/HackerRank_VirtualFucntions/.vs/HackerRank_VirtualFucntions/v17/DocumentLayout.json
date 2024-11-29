@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002Boop\\HackerRank_VirtualFucntions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE4B8C4-3967-4F42-BF2F-C423745DFBB3}|HackerRank_VirtualFucntions.vcxproj|D:\\C\u002B\u002Boop\\HackerRank_VirtualFucntions\\HackerRank_VirtualFucntions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8EE4B8C4-3967-4F42-BF2F-C423745DFBB3}|HackerRank_VirtualFucntions.vcxproj|solutionrelative:HackerRank_VirtualFucntions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HackerRank_VirtualFucntions.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002Boop\\HackerRank_VirtualFucntions\\HackerRank_VirtualFucntions.cpp",
+              "RelativeDocumentMoniker": "HackerRank_VirtualFucntions.cpp",
+              "ToolTip": "D:\\C\u002B\u002Boop\\HackerRank_VirtualFucntions\\HackerRank_VirtualFucntions.cpp",
+              "RelativeToolTip": "HackerRank_VirtualFucntions.cpp",
+              "ViewState": "AQIAADkAAAAAAAAAAAASwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T15:36:09.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
