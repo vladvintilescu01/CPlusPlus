@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002BSTL\\HackerRank_Deque-STL_optimized\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BFBC698-467E-4C42-9E41-D3DB92700F60}|HackerRank_Deque-STL_optimized.vcxproj|D:\\C\u002B\u002BSTL\\HackerRank_Deque-STL_optimized\\HackerRank_Deque-STL_optimized.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BFBC698-467E-4C42-9E41-D3DB92700F60}|HackerRank_Deque-STL_optimized.vcxproj|solutionrelative:HackerRank_Deque-STL_optimized.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 187,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HackerRank_Deque-STL_optimized.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002BSTL\\HackerRank_Deque-STL_optimized\\HackerRank_Deque-STL_optimized.cpp",
+              "RelativeDocumentMoniker": "HackerRank_Deque-STL_optimized.cpp",
+              "ToolTip": "D:\\C\u002B\u002BSTL\\HackerRank_Deque-STL_optimized\\HackerRank_Deque-STL_optimized.cpp",
+              "RelativeToolTip": "HackerRank_Deque-STL_optimized.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T15:44:29.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

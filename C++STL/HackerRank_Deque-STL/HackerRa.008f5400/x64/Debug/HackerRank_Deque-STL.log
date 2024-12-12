@@ -1,0 +1,8 @@
+﻿  HackerRank_Deque-STL.cpp
+D:\C++STL\HackerRank_Deque-STL\HackerRank_Deque-STL.cpp(20,17): error C2131: expression did not evaluate to a constant
+  D:\C++STL\HackerRank_Deque-STL\HackerRank_Deque-STL.cpp(20,17):
+  failure was caused by a read of a variable outside its lifetime
+  D:\C++STL\HackerRank_Deque-STL\HackerRank_Deque-STL.cpp(20,17):
+  see usage of 'n'
+  
+D:\C++STL\HackerRank_Deque-STL\HackerRank_Deque-STL.cpp(22,17): warning C4552: '>>': result of expression not used
